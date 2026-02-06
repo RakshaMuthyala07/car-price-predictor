@@ -1,4 +1,4 @@
-<img width="1502" height="1008" alt="image" src="https://github.com/user-attachments/assets/e859f705-d7d9-4f78-82cf-b89021d56614" /># 🚗 Car Price Predictor using Machine Learning
+
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
