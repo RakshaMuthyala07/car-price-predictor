@@ -9,7 +9,7 @@ An end-to-end machine learning project that predicts used car prices based on fe
 
 ![Car Price Predictor](https://img.icons8.com/fluency/96/000000/car.png)
 
-## 📋 Table of Contents
+##  Table of Contents
 - [Overview](#overview)
 - [Features](#features)
 - [Demo](#demo)
@@ -22,7 +22,7 @@ An end-to-end machine learning project that predicts used car prices based on fe
 - [Author](#author)
 - [License](#license)
 
-## 🎯 Overview
+##  Overview
 
 This project implements a **Random Forest Regressor** to predict the selling price of used cars with **89% accuracy (R² score)**. The model is trained on real-world data from Quikr car listings and deployed through an interactive web dashboard.
 
@@ -31,15 +31,15 @@ Predicting accurate prices for used cars is challenging due to various factors l
 
 ## ✨ Features
 
-- 🎯 **Accurate Price Predictions** - Uses Random Forest with R² score of 0.89
-- 📊 **Interactive Dashboard** - Beautiful Streamlit web interface
-- 📈 **Data Visualizations** - Comprehensive EDA with charts and graphs
-- 🔧 **Multiple ML Models** - Compares Linear Regression, Decision Tree, and Random Forest
-- 💾 **Model Persistence** - Saved models for quick predictions
-- 📱 **Responsive Design** - Works on desktop and mobile browsers
-- 🎨 **Professional UI** - Clean, modern interface with custom styling
+-  **Accurate Price Predictions** - Uses Random Forest with R² score of 0.89
+-  **Interactive Dashboard** - Beautiful Streamlit web interface
+-  **Data Visualizations** - Comprehensive EDA with charts and graphs
+-  **Multiple ML Models** - Compares Linear Regression, Decision Tree, and Random Forest
+-  **Model Persistence** - Saved models for quick predictions
+-  **Responsive Design** - Works on desktop and mobile browsers
+-  **Professional UI** - Clean, modern interface with custom styling
 
-## 🖼️ Demo
+##  Demo
 
 ### Main Dashboard
 The interactive dashboard allows users to:
@@ -61,7 +61,7 @@ Output:
 - Price Range: ₹3,10,500 - ₹3,79,500
 ```
 
-## 🚀 Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -89,7 +89,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## 💻 Usage
+##  Usage
 
 ### 1. Train the Model
 First, train the machine learning model on the dataset:
@@ -125,7 +125,7 @@ The dashboard will open in your browser at `http://localhost:8501`
 2. Click "Predict Price" button
 3. View the predicted price and insights
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 car-price-predictor/
@@ -155,7 +155,7 @@ car-price-predictor/
     └── EDA.ipynb
 ```
 
-## 📊 Dataset
+##  Dataset
 
 **Source:** Quikr Car Listings
 
@@ -179,7 +179,7 @@ car-price-predictor/
 - Handled outliers using IQR method
 - Applied OneHotEncoding for categorical features
 
-## 📈 Model Performance
+##  Model Performance
 
 ### Models Compared:
 1. **Linear Regression** (Baseline)
@@ -195,12 +195,12 @@ car-price-predictor/
 | **Training R²** | 0.94 |
 
 ### Key Insights:
-- ✅ Model explains **89% of price variance**
-- ✅ Average prediction error: **₹58,000**
-- ✅ No significant overfitting (Train R²: 0.94, Test R²: 0.89)
-- ✅ Random Forest outperforms other models
+-  Model explains **89% of price variance**
+-  Average prediction error: **₹58,000**
+-  No significant overfitting (Train R²: 0.94, Test R²: 0.89)
+-  Random Forest outperforms other models
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Core Technologies:
 - **Python 3.8+** - Programming language
@@ -219,34 +219,34 @@ car-price-predictor/
 - **Git** - Version control
 - **GitHub** - Code hosting
 
-## 👤 Author
+##  Author
 
 **Raksha Muthyala**
 
-- 📧 Email: rakshamuthyala@gmail.com
-- 🐙 GitHub: [@RakshaMuthyala07](https://github.com/RakshaMuthyala07)
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/rakshamuthyala)
+-  Email: rakshamuthyala@gmail.com
+-  GitHub: [@RakshaMuthyala07](https://github.com/RakshaMuthyala07)
+- 
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Dataset source: Quikr Car Listings
 - scikit-learn documentation and community
 - Streamlit for the amazing dashboard framework
 - Open-source ML community
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/RakshaMuthyala07/car-price-predictor/issues).
 
-## ⭐ Show Your Support
+##  Show Your Support
 
 If you found this project helpful, please give it a ⭐ on GitHub!
 
 ---
 
-**Made with ❤️ by Raksha Muthyala**
+**Made by Raksha Muthyala**
 
