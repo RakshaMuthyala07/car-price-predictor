@@ -1,6 +1,6 @@
-# 🚀 QUICK START GUIDE
+# QUICK START GUIDE
 
-## Installation & Running (3 Steps)
+## Installation & Running 
 
 ### Step 1: Install Dependencies
 ```bash
@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ```bash
 python train_model.py
 ```
-⏱️ Takes ~30-60 seconds
+ Takes ~30-60 seconds
 
 ### Step 3: Launch Dashboard
 ```bash
@@ -88,9 +88,7 @@ car-price-predictor/
 
 ---
 
-## For Resume
 
-**Short Description:**
 ```
 Car Price Predictor - ML model predicting used car prices 
 with Random Forest (Python, scikit-learn, Streamlit)
@@ -124,10 +122,10 @@ python train_model.py
 
 ## Next Steps
 
-1. ✅ Push to GitHub
-2. ✅ Add to resume
-3. ✅ Prepare demo
-4. ✅ Deploy to Streamlit Cloud (optional)
+1.  Push to GitHub
+2.  Add to resume
+3.  Prepare demo
+4. Deploy to Streamlit Cloud (optional)
 
 ---
 
