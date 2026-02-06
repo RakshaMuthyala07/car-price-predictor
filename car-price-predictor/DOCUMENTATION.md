@@ -1,10 +1,8 @@
 # Project Documentation
 
-## 📌 Resume Project Description
 
-Use this description when adding the project to your resume:
 
-### Short Version (1-2 lines):
+
 ```
 Developed a machine learning model to predict used car prices with 89% accuracy (R² score) 
 using Random Forest Regressor. Built an interactive Streamlit dashboard for real-time predictions.
@@ -22,7 +20,6 @@ Car Price Prediction System | Python, scikit-learn, Streamlit
 
 ---
 
-## 🎯 Key Talking Points for Interviews
 
 ### 1. Project Overview
 "I built a machine learning system that predicts used car prices based on features like manufacturer, year, kilometers driven, and fuel type. The model achieves 89% accuracy using Random Forest."
@@ -53,7 +50,7 @@ Car Price Prediction System | Python, scikit-learn, Streamlit
 
 ---
 
-## 📊 Technical Details for Deep Dive
+##  Technical Details for Deep Dive
 
 ### Model Comparison Results
 
@@ -77,7 +74,7 @@ Car Price Prediction System | Python, scikit-learn, Streamlit
 
 ---
 
-## 🎨 Dashboard Features
+##  Dashboard Features
 
 1. **Price Prediction Tab**
    - Input car specifications
@@ -103,7 +100,7 @@ Car Price Prediction System | Python, scikit-learn, Streamlit
 
 ---
 
-## 🛠️ Code Highlights
+## Code Highlights
 
 ### Data Preprocessing Example
 ```python
@@ -136,11 +133,10 @@ r2 = r2_score(y_test, y_pred)  # 0.89
 
 ---
 
-## 📱 Demo Links
+##  Demo Links
 
 - **GitHub Repository:** https://github.com/RakshaMuthyala07/car-price-predictor
-- **Live Demo:** (Add Streamlit Cloud link after deployment)
-- **Video Demo:** (Add YouTube link if created)
+-
 
 ---
 
@@ -163,4 +159,4 @@ r2 = r2_score(y_test, y_pred)  # 0.89
 
 ---
 
-**Use this documentation when discussing the project in interviews or adding it to your portfolio!**
+
