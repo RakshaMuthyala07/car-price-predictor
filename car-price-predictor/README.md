@@ -1,4 +1,4 @@
-# 🚗 Car Price Predictor using Machine Learning
+<img width="1502" height="1008" alt="image" src="https://github.com/user-attachments/assets/e859f705-d7d9-4f78-82cf-b89021d56614" /># 🚗 Car Price Predictor using Machine Learning
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
@@ -40,6 +40,16 @@ Predicting accurate prices for used cars is challenging due to various factors l
 -  **Professional UI** - Clean, modern interface with custom styling
 
 ##  Demo
+<img width="1915" height="1126" alt="image" src="https://github.com/user-attachments/assets/115a0d0b-4ebf-4859-9d19-467b772ab312" />
+<img width="1914" height="1065" alt="image" src="https://github.com/user-attachments/assets/a5df9bb6-2fb7-4e8f-90b9-a89ebf4d8ae1" />
+<img width="1512" height="1001" alt="image" src="https://github.com/user-attachments/assets/1bfed03e-76be-4104-b7ac-53237f3f5bc3" />
+<img width="1502" height="1008" alt="image" src="https://github.com/user-attachments/assets/1f1e6823-abdc-4909-a159-bebe58b9594b" />
+<img width="1511" height="791" alt="image" src="https://github.com/user-attachments/assets/f88d66d4-8e01-4a4b-8635-1ab6e42f2251" />
+<img width="1447" height="754" alt="image" src="https://github.com/user-attachments/assets/dbe6d802-4926-4ce3-9e59-5a34c6e1ffbc" />
+<img width="1918" height="983" alt="image" src="https://github.com/user-attachments/assets/8aca9b43-5e40-4146-9f56-210df741d6d7" />
+
+
+
 
 ### Main Dashboard
 The interactive dashboard allows users to:
