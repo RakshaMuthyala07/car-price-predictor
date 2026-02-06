@@ -133,17 +133,17 @@ python train_model.py
 ```
 car-price-predictor/
 │
-├── app.py                      ✅ Dashboard app
-├── train_model.py              ✅ Training script
-├── quikr_car.csv               ✅ Dataset
-├── requirements.txt            ✅ Dependencies
-├── README.md                   ✅ Documentation
+├── app.py                       Dashboard app
+├── train_model.py               Training script
+├── quikr_car.csv                Dataset
+├── requirements.txt             Dependencies
+├── README.md                    Documentation
 │
-├── car_price_model.pkl         ⭐ Generated after training
-├── encoder.pkl                 ⭐ Generated after training
-├── feature_columns.pkl         ⭐ Generated after training
+├── car_price_model.pkl          Generated after training
+├── encoder.pkl                  Generated after training
+├── feature_columns.pkl          Generated after training
 │
-└── visualizations/             ⭐ Generated after training
+└── visualizations/              Generated after training
     ├── price_distribution.png
     ├── year_vs_price.png
     ├── fuel_type_analysis.png
@@ -157,11 +157,11 @@ car-price-predictor/
 ## Next Steps
 
 ### For Resume/Portfolio:
-1. ✅ Train the model
-2. ✅ Take screenshots of the dashboard
-3. ✅ Push to your GitHub repository
-4. ✅ Add project link to your resume
-5. ✅ Prepare to explain the project in interviews
+1.  Train the model
+2.  Take screenshots of the dashboard
+3.  Push to your GitHub repository
+4.  Add project link to your resume
+5.  Prepare to explain the project in interviews
 
 ### For Further Development:
 - Add more features (transmission type, owner count)
@@ -182,4 +182,4 @@ If you encounter issues:
 
 ---
 
-**Happy Coding! 🚀**
+**Happy Coding! **
